@@ -1,6 +1,5 @@
 ![image](https://user-images.githubusercontent.com/81957998/232365131-ba54a382-8dcb-482b-8fd7-43a26bd0b1a7.png)
 
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,3 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### github pages 설정하기 참고 : [링크](https://velog.io/@nemo/github-page-deploy-%EB%B0%B0%ED%8F%AC)

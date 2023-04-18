@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cafe-danawa.github.io/static/css/main.1b2cc529.css",
-    "main.js": "/cafe-danawa.github.io/static/js/main.25ff48cd.js",
-    "static/js/787.4ef636f3.chunk.js": "/cafe-danawa.github.io/static/js/787.4ef636f3.chunk.js",
-    "static/media/marker.svg": "/cafe-danawa.github.io/static/media/marker.ed57692fab32aea275dd.svg",
-    "index.html": "/cafe-danawa.github.io/index.html",
-    "main.1b2cc529.css.map": "/cafe-danawa.github.io/static/css/main.1b2cc529.css.map",
-    "main.25ff48cd.js.map": "/cafe-danawa.github.io/static/js/main.25ff48cd.js.map",
-    "787.4ef636f3.chunk.js.map": "/cafe-danawa.github.io/static/js/787.4ef636f3.chunk.js.map"
+    "main.css": "/cafe-danawa/static/css/main.f394659d.css",
+    "main.js": "/cafe-danawa/static/js/main.6a21ecbb.js",
+    "static/js/787.4ef636f3.chunk.js": "/cafe-danawa/static/js/787.4ef636f3.chunk.js",
+    "static/media/marker.svg": "/cafe-danawa/static/media/marker.ed57692fab32aea275dd.svg",
+    "index.html": "/cafe-danawa/index.html",
+    "main.f394659d.css.map": "/cafe-danawa/static/css/main.f394659d.css.map",
+    "main.6a21ecbb.js.map": "/cafe-danawa/static/js/main.6a21ecbb.js.map",
+    "787.4ef636f3.chunk.js.map": "/cafe-danawa/static/js/787.4ef636f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b2cc529.css",
-    "static/js/main.25ff48cd.js"
+    "static/css/main.f394659d.css",
+    "static/js/main.6a21ecbb.js"
   ]
 }

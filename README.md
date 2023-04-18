@@ -71,4 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### github pages 설정하기 참고 : [링크](https://velog.io/@nemo/github-page-deploy-%EB%B0%B0%ED%8F%AC)
+### github pages 설정하는 법 참고 링크
+
+- [github pages 설정](https://velog.io/@nemo/github-page-deploy-%EB%B0%B0%ED%8F%AC)
+- [react router 적용한 앱을 배포하는 법](https://medium.com/@_diana_lee/react-react-router-%EC%A0%81%EC%9A%A9%ED%95%9C-react-%EC%95%B1%EC%9D%84-github-pages%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%EB%B2%95-5f6119c6a5d9)

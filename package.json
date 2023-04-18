@@ -1,6 +1,7 @@
 {
   "name": "cafe-danawa",
   "version": "0.1.0",
+  "homepage": "/cafe-danawa",
   "private": true,
   "main": "src/App.js",
   "dependencies": {

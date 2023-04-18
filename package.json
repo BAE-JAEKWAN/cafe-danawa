@@ -1,7 +1,6 @@
 {
   "name": "cafe-danawa",
   "version": "0.1.0",
-  "homepage": "https://bae-jaekwan.github.io/cafe-danawa",
   "private": true,
   "main": "src/App.js",
   "dependencies": {

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cafe-danawa/static/css/main.f394659d.css",
-    "main.js": "/cafe-danawa/static/js/main.2823fe0f.js",
-    "static/js/787.4ef636f3.chunk.js": "/cafe-danawa/static/js/787.4ef636f3.chunk.js",
-    "static/media/marker.svg": "/cafe-danawa/static/media/marker.ed57692fab32aea275dd.svg",
-    "index.html": "/cafe-danawa/index.html",
-    "main.f394659d.css.map": "/cafe-danawa/static/css/main.f394659d.css.map",
-    "main.2823fe0f.js.map": "/cafe-danawa/static/js/main.2823fe0f.js.map",
-    "787.4ef636f3.chunk.js.map": "/cafe-danawa/static/js/787.4ef636f3.chunk.js.map"
+    "main.css": "/static/css/main.72bb51c4.css",
+    "main.js": "/static/js/main.45f2779d.js",
+    "static/js/787.4ef636f3.chunk.js": "/static/js/787.4ef636f3.chunk.js",
+    "static/media/marker.svg": "/static/media/marker.ed57692fab32aea275dd.svg",
+    "index.html": "/index.html",
+    "main.72bb51c4.css.map": "/static/css/main.72bb51c4.css.map",
+    "main.45f2779d.js.map": "/static/js/main.45f2779d.js.map",
+    "787.4ef636f3.chunk.js.map": "/static/js/787.4ef636f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f394659d.css",
-    "static/js/main.2823fe0f.js"
+    "static/css/main.72bb51c4.css",
+    "static/js/main.45f2779d.js"
   ]
 }

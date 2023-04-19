@@ -153,10 +153,15 @@ function Refactor() {
               <p>${selectedMarker.place_name}</p>
               <p>${selectedMarker.address_name}</p>
               <p>${selectedMarker.phone}</p>
+              <button type="button" class="closeBtn"><span class="">정보창 닫기</span></button>
             </div>
             `,
       });
       infoWindow.open(map, location);
+      const closeBtn = infoWindow.getElement().querySelector(".closeBtn");
+      closeBtn.addEventListener("click", () => {
+        infoWindow.close();
+      });
     }
   }, [selectedMarker]);
 
